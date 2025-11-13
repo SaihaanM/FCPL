@@ -1,2 +1,2 @@
 # FCPL
-Canadian Premier League Fantasy
+Fantasy Canadian Premier League 
